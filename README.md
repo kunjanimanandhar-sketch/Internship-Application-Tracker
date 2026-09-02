@@ -34,6 +34,7 @@ The application allows users to create and manage internship application records
 Application data is stored locally in `applications.txt`, allowing information to persist after the program is closed.
 
 ## Project Structure
+
 Internship-Application-Tracker/
 ├── Application.java
 ├── Main.java
